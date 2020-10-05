@@ -1,6 +1,6 @@
 # Tugas
 
 Isi :
-Semua Lampiran Dokumen Tugas 
+AIO(All in one) peletakan semua dokumen tugas ada disini
 
 
